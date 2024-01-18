@@ -1,0 +1,54 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100vh;
+  background-color: lightcoral;
+  
+}
+
+
+button{
+  height: 150px;
+  aspect-ratio: 1/1;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 6px rgb(77, 119, 138);
+  border-radius: 20px;
+  background-color: white;
+  font-size: 48px;
+  font-family: roboto;
+}
+
+
+
+#bass {
+    background-image: url(/images/kick.png);
+}
+
+#hihat {
+    background-image: url(/images/crash.png);
+}
+
+#snare {
+    background-image: url(/images/snare.png);
+}
+
+#tom1 {
+    background-image: url(/images/tom1.png);
+}
+
+#tom2 {
+    background-image: url(/images/tom2.png);
+}
+
+#tom3 {
+    background-image: url(/images/tom3.png);
+}
+
+#tom4 {
+    background-image: url(/images/tom4.png);
+}
