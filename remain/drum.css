@@ -3,10 +3,8 @@ body {
   align-items: center;
   justify-content: space-evenly;
   height: 100vh;
-  background-color: lightcoral;
-  
+  background-color: lightcoral; 
 }
-
 
 button{
   height: 150px;
